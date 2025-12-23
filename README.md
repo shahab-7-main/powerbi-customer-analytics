@@ -55,7 +55,7 @@ The dashboard supports **dynamic filtering by country** and includes both **ligh
 ## 📸 Dashboard Preview
 
 ### Light Theme
-<a href = "https://github.com/shahab-7-main/powerbi-customer-analytics/blob/main/Light%20version.png">Light Theme Dashboard<a
+<a href = "https://github.com/shahab-7-main/powerbi-customer-analytics/blob/main/Light%20version.png">Light Theme Dashboard<a>
 
 ### Dark Theme
 <a href = "https://github.com/shahab-7-main/powerbi-customer-analytics/blob/main/Dark%20version.png">Dark Theme Dashboard<a>
